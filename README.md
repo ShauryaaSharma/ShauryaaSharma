@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🚀 Second-year Computer and Communication student.<br>
+🚀 Second-year Computer and Communication Engineering student.<br>
 💻 Proficient in MERN stack development (MongoDB, React, Node.js).<br>
 📊 Exploring data-driven solutions through machine learning and AI.<br>
 🧠 Research enthusiast, diving into innovative tech and algorithms.<br>
