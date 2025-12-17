@@ -79,14 +79,6 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShauryaaSharma&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-  
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -94,33 +86,6 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShauryaaSharma&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A177F7&line=A177F7&point=C9D1D9)
   
 </div>
-
-## 💻 Coding Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
-## 🎨 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/ShauryaaSharma/ShauryaaSharma/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-## 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
 
 ## 💼 Work Experience Highlights
 
@@ -142,28 +107,6 @@ const experience = {
 - ✍️ Write 20+ technical blog posts
 - 🎓 Mentor 5+ junior developers
 - 🏆 Achieve AWS Solutions Architect certification
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-## 🎵 Spotify Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-kappa-ten.vercel.app/api/spotify)](https://open.spotify.com/user/31vhru2u5vei45x7srpzkqf2d4xi)
-
-</div>
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ShauryaaSharma&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=C9D1D9)](https://github.com/ShauryaaSharma/-pendr)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ShauryaaSharma&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=C9D1D9)](https://github.com/ShauryaaSharma/OS-Portfolio)
-
-</div>
 
 ## 🤝 Connect With Me
 
