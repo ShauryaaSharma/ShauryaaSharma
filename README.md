@@ -13,7 +13,7 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
 - 🔭 Currently working on **$pendr**
 - 🌱 Learning **Deep Learning**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Python, C/C++, Web-Development, AI/ML/DL**
+- 💬 Ask me about **Python, Java, Web-Development, AI/ML/DL**
 - 📫 Reach me at **shauryasofficial27@gmail.com**
 - ⚡ Fun fact: **I think I am funny**
 
