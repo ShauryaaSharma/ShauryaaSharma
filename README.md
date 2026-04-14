@@ -10,7 +10,7 @@
 
 I'm a passionate developer who loves turning ideas into reality through code. I believe in writing clean, maintainable code and contributing to the open-source community.
 
-- 🔭 Currently working on **$pendr**
+- 🔭 Currently working on **Corpus Medica**
 - 🌱 Learning **Deep Learning**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, Java, Web-Development, AI/ML/DL**
