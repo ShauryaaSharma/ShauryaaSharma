@@ -11,7 +11,7 @@
 I'm a passionate developer who loves turning ideas into reality through code. I believe in writing clean, maintainable code and contributing to the open-source community.
 
 - 🔭 Currently working on **GoLang Realtime Chat Application**
-- 🌱 Learning **Rust & GoLand**
+- 🌱 Learning **Rust & GoLang**
 - 📫 Reach me at **shauryasofficial27@gmail.com**
 - ⚡ Fun fact: **I think I am funny**
 
