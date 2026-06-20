@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Software+Engineer;Open+Source+Enthusiast;Problem+Solver+%26+Innovator;Building+the+Future+with+Code)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Web+3;AI+Agents)
   
 </div>
 
@@ -13,12 +13,18 @@
 <h1 align="center">Hi, I'm Shaurya Sharma</h1>
 
 <p align="center">
-<p align="center">
-  <a href="https://parthshr370.github.io/" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://twitter.com/parthshr370" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/parthshr370" target="_blank"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@parthshr370" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
+  <a href="https://shauryasharma.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="[https://linkedin.com/in/parthshr370](https://www.linkedin.com/in/shaurya-sharmaa/)" target="_blank">
+    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
 
 ## 🚀 About Me
