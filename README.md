@@ -13,18 +13,10 @@
 <h1 align="center">Hi, I'm Shaurya Sharma</h1>
 
 <p align="center">
-  <a href="https://shauryasharma.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="[https://linkedin.com/in/parthshr370](https://www.linkedin.com/in/shaurya-sharmaa/)" target="_blank">
-    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+  <a href="https://shauryasharma.vercel.app/" target="_blank"><strong>Website</strong></a> •
+  <a href="https://twitter.com/" target="_blank"><strong>Twitter / X</strong></a> •
+  <a href="https://www.linkedin.com/in/shaurya-sharmaa/" target="_blank"><strong>LinkedIn</strong></a> •
+  <a href="https://medium.com/" target="_blank"><strong>Medium</strong></a>
 </p>
 
 ## 🚀 About Me
