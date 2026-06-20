@@ -1,11 +1,5 @@
 # Hi there, I'm Shaurya 👋
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Web+3;AI+Agents)
-  
-</div>
-
 <p align="center">
   <img src="https://r4.wallpaperflare.com/wallpaper/912/1009/176/street-digital-art-artwork-wallpaper-1990185d91fa4d0b06b7d83fd0f1c69d.jpg" alt="Banner image" width="100%" style="border-radius: 10px;">
 </p>
