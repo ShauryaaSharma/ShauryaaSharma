@@ -5,6 +5,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Shaurya Sharma</h1>
+<h4 align="center">I am interested in Web 3 and AI Agents</h4>
 
 <p align="center">
   <a href="https://shauryasharma.vercel.app/" target="_blank"><strong>Website</strong></a> •
