@@ -9,9 +9,9 @@
 
 <p align="center">
   <a href="https://shauryasharma.vercel.app/" target="_blank"><strong>Website</strong></a> •
-  <a href="https://twitter.com/" target="_blank"><strong>Twitter / X</strong></a> •
+  <a href="https://x.com/ShaaaSharma" target="_blank"><strong>Twitter / X</strong></a> •
   <a href="https://www.linkedin.com/in/shaurya-sharmaa/" target="_blank"><strong>LinkedIn</strong></a> •
-  <a href="https://medium.com/" target="_blank"><strong>Medium</strong></a>
+  <a href="https://medium.com/@shauryasofficial27" target="_blank"><strong>Medium</strong></a>
 </p>
 
 ## 🚀 About Me
