@@ -1,7 +1,8 @@
 # Hi there, I'm Shaurya 👋
 
 <p align="center">
-  <img src="https://r4.wallpaperflare.com/wallpaper/912/1009/176/street-digital-art-artwork-wallpaper-1990185d91fa4d0b06b7d83fd0f1c69d.jpg" alt="Banner image" width="100%" style="border-radius: 10px;">
+  <!-- <img src="https://r4.wallpaperflare.com/wallpaper/912/1009/176/street-digital-art-artwork-wallpaper-1990185d91fa4d0b06b7d83fd0f1c69d.jpg" alt="Banner image" width="100%" style="border-radius: 10px;"> -->
+  <img src="https://github.com/ShauryaaSharma/ShauryaaSharma/blob/main/download%20(1).jpg" alt="Banner image" width="100%" style="border-radius: 10px;">
 </p>
 
 <h1 align="center">Hi, I'm Shaurya Sharma</h1>
