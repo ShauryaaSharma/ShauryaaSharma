@@ -57,6 +57,24 @@ I am a developer and researcher deeply focused on **Agentic Systems**, **GoLang*
 
 </div>
 
+## 🌟 Open Source Contributions
+
+Merged, peer-reviewed contributions to **[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** — a systems-level **C** codebase.
+
+<p>
+  <a href="https://github.com/DeusData/codebase-memory-mcp/pulls?q=is%3Apr+author%3AShauryaaSharma+is%3Amerged">
+    <img src="https://img.shields.io/badge/DeusData%2Fcodebase--memory--mcp-3%20Merged%20PRs-A177F7?style=for-the-badge&logo=github&logoColor=white" alt="3 merged PRs to DeusData/codebase-memory-mcp" />
+  </a>
+</p>
+
+| Pull Request | Contribution |
+| :--- | :--- |
+| **[#703](https://github.com/DeusData/codebase-memory-mcp/pull/703)** ✅ | `_wfopen` support for **non-ASCII Windows project paths** |
+| **[#493](https://github.com/DeusData/codebase-memory-mcp/pull/493)** ✅ | Honor **`.git/info/exclude`** during file discovery |
+| **[#813](https://github.com/DeusData/codebase-memory-mcp/pull/813)** ✅ 🤝 | **Windows installer fixes** — Mark-of-the-Web, swallowed config errors, `taskkill` / `CreateProcessW` quoting |
+
+<sub>✅ Merged &nbsp;·&nbsp; 🤝 Co-authored</sub>
+
 ## 📊 GitHub Statistics
 
 <div align="center">
