@@ -59,7 +59,7 @@ I am a developer and researcher deeply focused on **Agentic Systems**, **GoLang*
 
 ## 🌟 Open Source Contributions
 
-Merged, peer-reviewed contributions to **[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** — a systems-level **C** codebase.
+Merged, peer-reviewed contributions to **[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** — #1 on daily, weekly and monthly trending repositories.
 
 <p>
   <a href="https://github.com/DeusData/codebase-memory-mcp/pulls?q=is%3Apr+author%3AShauryaaSharma+is%3Amerged">
