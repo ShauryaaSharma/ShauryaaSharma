@@ -73,7 +73,7 @@ I am a developer and researcher deeply focused on **Agentic Systems**, **GoLang*
 | **[#493](https://github.com/DeusData/codebase-memory-mcp/pull/493)** ✅ | Honor **`.git/info/exclude`** during file discovery |
 | **[#813](https://github.com/DeusData/codebase-memory-mcp/pull/813)** ✅ 🤝 | **Windows installer fixes** — Mark-of-the-Web, swallowed config errors, `taskkill` / `CreateProcessW` quoting |
 
-# Y Combinator Startup, S24
+Y Combinator Startup, S24
 #1 on daily trending repositories.
 
 <p>
