@@ -59,6 +59,19 @@ I am a developer and researcher deeply focused on **Agentic Systems**, **GoLang*
 
 ## 🌟 Open Source Contributions
 
+Y Combinator Startup, S24 <br>
+#1 on daily trending repositories.
+
+<p>
+  <a href="https://github.com/mem0ai/mem0/pulls?q=is%3Apr+author%3AShauryaaSharma+is%3Amerged">
+    <img src="https://img.shields.io/badge/mem0ai%2Fmem0-1%20Merged%20PR-A177F7?style=for-the-badge&logo=github&logoColor=white" alt="1 merged PR to mem0ai/mem0" />
+  </a>
+</p>
+
+| Pull Request | Contribution |
+| :--- | :--- |
+| **[#6102](https://github.com/mem0ai/mem0/pull/6102)** ✅ | Fixed **silent LLM transport-failure swallowing** in the TS SDK — provider/network errors during memory extraction are now re-raised as a typed `LLMError` instead of being masked as an empty result |
+
 #1 on daily, weekly and monthly trending repositories.
 
 <p>
@@ -72,19 +85,6 @@ I am a developer and researcher deeply focused on **Agentic Systems**, **GoLang*
 | **[#703](https://github.com/DeusData/codebase-memory-mcp/pull/703)** ✅ | `_wfopen` support for **non-ASCII Windows project paths** |
 | **[#493](https://github.com/DeusData/codebase-memory-mcp/pull/493)** ✅ | Honor **`.git/info/exclude`** during file discovery |
 | **[#813](https://github.com/DeusData/codebase-memory-mcp/pull/813)** ✅ 🤝 | **Windows installer fixes** — Mark-of-the-Web, swallowed config errors, `taskkill` / `CreateProcessW` quoting |
-
-Y Combinator Startup, S24 <br>
-#1 on daily trending repositories.
-
-<p>
-  <a href="https://github.com/mem0ai/mem0/pulls?q=is%3Apr+author%3AShauryaaSharma+is%3Amerged">
-    <img src="https://img.shields.io/badge/mem0ai%2Fmem0-1%20Merged%20PR-A177F7?style=for-the-badge&logo=github&logoColor=white" alt="1 merged PR to mem0ai/mem0" />
-  </a>
-</p>
-
-| Pull Request | Contribution |
-| :--- | :--- |
-| **[#6102](https://github.com/mem0ai/mem0/pull/6102)** ✅ | Fixed **silent LLM transport-failure swallowing** in the TS SDK — provider/network errors during memory extraction are now re-raised as a typed `LLMError` instead of being masked as an empty result |
 
 <sub>✅ Merged &nbsp;·&nbsp; 🤝 Co-authored</sub>
 
