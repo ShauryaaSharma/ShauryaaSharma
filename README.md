@@ -88,39 +88,6 @@ Y Combinator Startup, S24 <br>
 
 <sub>✅ Merged &nbsp;·&nbsp; 🤝 Co-authored</sub>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShauryaaSharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=C9D1D9)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShauryaaSharma&theme=tokyonight&hide_border=true&background=0D1117&stroke=A177F7&ring=A177F7&fire=FF6B6B&currStreakLabel=A177F7)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaaSharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=C9D1D9)
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShauryaaSharma&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A177F7&line=A177F7&point=C9D1D9)
-  
-</div>
-
-## 💼 Work Experience Highlights
-
-```javascript
-const experience = {
-  currentRole: "Software Engineer @ [Dept of CCE, MUJ]",
-  previousRoles: [
-    "Software Engineering Intern @ [Paytm]"
-  ],
-  yearsOfExperience: 0-1,
-  specializations: ["Agents", "Web", "DSA"]
-};
-```
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShauryaaSharma&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
