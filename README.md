@@ -71,13 +71,12 @@ Next-generation Node.js & TypeScript ORM.
 | :--- | :--- |
 | **[#29712](https://github.com/prisma/prisma/pull/29712)** ✅ | Fixed **`moduleFormat` inference for `nodenext`/`node16`** in the `prisma-client` generator — CJS projects (e.g. NestJS) no longer get an ESM-only client that crashes at runtime; now mirrors `tsc`'s own per-file resolution via the nearest `package.json`'s `type` field |
 
-<img src="https://github.com/ShauryaaSharma/ShauryaaSharma/blob/main/mem0-logo.jpg?raw=true" width="20" height="20" alt="mem0 logo" align="left" style="border-radius:4px;margin-right:6px;" />
 Y Combinator Startup, S24 <br>
 #1 on daily trending repositories.
 
 <p>
   <a href="https://github.com/mem0ai/mem0/pulls?q=is%3Apr+author%3AShauryaaSharma+is%3Amerged">
-    <img src="https://img.shields.io/badge/mem0ai%2Fmem0-1%20Merged%20PR-A177F7?style=for-the-badge&logo=github&logoColor=white" alt="1 merged PR to mem0ai/mem0" />
+    <img src="https://img.shields.io/badge/mem0ai%2Fmem0-1%20Merged%20PR-A177F7?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEX0lEQVR42p2XQWyUVRDH59tdd7trDFh26aZJEzx4Qj0RQyEa9yZFbipJAyaFWCUk1gPqyXLSk6cFiXs2QUloYkwMB0Kl0pA0cEKMiUJXSTkYAiSQttvdlp8H%2Fl%2Bdvn67a%2FuSL9%2F3zZs382bmP%2FPmmf3PAWTcdwSUgBk9RSBK4t30kJIIKADfADeBKWCf5vfy39gr2qB4bmpNTyxno4ozQE7%2FR1k77gFbZHVVT1G0vwPe45KRk8xoM574AmgBDWAJeAL0J%2FD1AQvimweawLkNWa53EfgKOKT%2FN2RNS%2B8pIAv0Am8CFeA5oMb68a5kHJbMoteVCDK5FGBZVqWAU6KdlbLtQN0p%2Bge4A3yo9d8Cw0BaYF0WXzURpIp7VnF6D5iToLTmR4Fpxz8mgQ3nmcE2nk1J1pxkZ4SJqFM4evVOS%2FkD4LL%2BI%2BCYlC4KEytAWcpeBiaAWeBLZ8Q267DDCDgo173tvPK%2BCwfASc2VgNsuBDVZlgWuBzgYcboqwDgwEm8snvg6WDQs%2Bi0hf0lW3nJryvLOkKO9ovVLyoI4I8YcjuJxxpw19xXLBSma0NxPTiDAtDyTblM%2FngfuBop%2BBq64TGpoc3Ugb3LdjBiacndV8X4JuKpN3QB2O4UHgE%2BAEwF9D3AJ%2BBUYd%2FTvgnDOAJl45%2FuBv4DHmjwSWLcTSMUABS4m5PzFtkB7uq4ATAKPpGv%2FmkwA8sAOWT8LvA4MBC5Oy6Wxt1p6Yqsm5dFV5AMfAB%2B5IlQGsl7xVmAXkHe0hxK4ANQcfXfgRj%2BWfT0Qtv5w8%2FXYQ%2FLGLmCrAdfEcFopWRHoWm7xkBZ%2BqrxvJWygpbnPxHvc1YqGvt%2BSJ%2BOsu5ZyYYrMDDN71syyZrZiZg3NveB4uh4retf17jGztJk1zWze6VkXgoKL25yz7E%2Bg5M77biHwGVFTGAEeBnh7GgJHzAJlfb8o4Iy6uKUFsEmnMAZh0%2BV8OuiOBgToWQF8h8dbmIaPpKCnQzpt65CGva687wzWHRHf4zVpGBSi2I3fu4XjKiqXgD1BRpxQMToQ0G%2BoeF1VMUvL%2BmXnrdVClFeKNIPj9YrL%2BXjcVbmNEjwTn5TTQfn%2BUfMT2tS8dNSBfCqKokUzu2Bmz5hZzswyZnbazM6b2avKhKaefjMbiKIICR0STspRFK2IXjazJ0J708xiUJ43s5SZFaTjgnSv7n5E7q44q0YCD1x3jYtvwW67TDkZhPNj1%2B69oyP%2FoLyVags0t7HPgd%2BAH9RspFROV1R4FqXomCvXl9XEjIZNTqdWPNeuJUvgHwyOV4AxNz8dK3cA9C1Zdh2O2jSlJS0YluuqajzvqBH1dX67Gtazop2S8j4H7Grbm1NCW37YxS0cNSmrqDXvlVVTQQv%2FmmQc6tqWdwjPOaXovNy9APQl8PULE0sunc90k5%2FqdjUzs1%2BUogWl6T0za4RXMx0093WQxen8%2B6avZu5y2hNcTgc7XE73BZfT3IYvpxu4nhfd9by02ev5vzMuHo4U6jpqAAAAAElFTkSuQmCC" alt="1 merged PR to mem0ai/mem0" />
   </a>
 </p>
 
