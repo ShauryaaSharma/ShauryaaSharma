@@ -86,6 +86,18 @@ Y Combinator Startup, S24 <br>
 | **[#493](https://github.com/DeusData/codebase-memory-mcp/pull/493)** ✅ | Honor **`.git/info/exclude`** during file discovery |
 | **[#813](https://github.com/DeusData/codebase-memory-mcp/pull/813)** ✅ 🤝 | **Windows installer fixes** — Mark-of-the-Web, swallowed config errors, `taskkill` / `CreateProcessW` quoting |
 
+Next-generation Node.js & TypeScript ORM.
+
+<p>
+  <a href="https://github.com/prisma/prisma/pulls?q=is%3Apr+author%3AShauryaaSharma+is%3Amerged">
+    <img src="https://img.shields.io/badge/prisma%2Fprisma-1%20Merged%20PR-A177F7?style=for-the-badge&logo=github&logoColor=white" alt="1 merged PR to prisma/prisma" />
+  </a>
+</p>
+
+| Pull Request | Contribution |
+| :--- | :--- |
+| **[#29712](https://github.com/prisma/prisma/pull/29712)** ✅ | Fixed **`moduleFormat` inference for `nodenext`/`node16`** in the `prisma-client` generator — CJS projects (e.g. NestJS) no longer get an ESM-only client that crashes at runtime; now mirrors `tsc`'s own per-file resolution via the nearest `package.json`'s `type` field |
+
 <sub>✅ Merged &nbsp;·&nbsp; 🤝 Co-authored</sub>
 
 <p align="center">
