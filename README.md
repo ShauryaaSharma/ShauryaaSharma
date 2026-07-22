@@ -71,6 +71,7 @@ Next-generation Node.js & TypeScript ORM.
 | :--- | :--- |
 | **[#29712](https://github.com/prisma/prisma/pull/29712)** ✅ | Fixed **`moduleFormat` inference for `nodenext`/`node16`** in the `prisma-client` generator — CJS projects (e.g. NestJS) no longer get an ESM-only client that crashes at runtime; now mirrors `tsc`'s own per-file resolution via the nearest `package.json`'s `type` field |
 
+<img src="https://github.com/ShauryaaSharma/ShauryaaSharma/blob/main/mem0-logo.jpg?raw=true" width="20" height="20" alt="mem0 logo" align="left" style="border-radius:4px;margin-right:6px;" />
 Y Combinator Startup, S24 <br>
 #1 on daily trending repositories.
 
