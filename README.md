@@ -31,13 +31,6 @@ I am a developer and researcher deeply focused on **Agentic Systems**, **GoLang*
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,supabase,firebase" />
 
-### AI & ML
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
-![LangChain](https://img.shields.io/badge/-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![NumPy](https://img.shields.io/badge/-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![n8n](https://img.shields.io/badge/-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
 ### DevOps & Services
 <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,kubernetes,kafka,jenkins,githubactions" />
 
