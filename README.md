@@ -23,28 +23,16 @@ I am a developer and researcher deeply focused on **Agentic Systems**, **GoLang*
 <div>
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,r,go,python,java,ts,js,mysql" />
+<img src="https://skillicons.dev/icons?i=c,cpp,r,go,py,java,ts,js,mysql" />
 
 ### Software Development Frameworks
-![Next.js](https://img.shields.io/badge/-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,fastapi,react,vue" />
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,supabase,firebase" />
 
 ### AI & ML
-![Scikit-learn](https://img.shields.io/badge/-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
 ![LangChain](https://img.shields.io/badge/-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -52,6 +40,8 @@ I am a developer and researcher deeply focused on **Agentic Systems**, **GoLang*
 
 ### DevOps & Services
 <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,kubernetes,kafka,jenkins,githubactions" />
+
+
 </div>
 
 ## 🌟 Open Source Contributions
