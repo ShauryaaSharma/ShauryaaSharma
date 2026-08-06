@@ -23,15 +23,7 @@ I am a developer and researcher deeply focused on **Agentic Systems**, **GoLang*
 <div>
 
 ### Programming Languages
-![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Go](https://img.shields.io/badge/-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,r,go,python,java,ts,js,mysql" />
 
 ### Software Development Frameworks
 ![Next.js](https://img.shields.io/badge/-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -59,15 +51,7 @@ I am a developer and researcher deeply focused on **Agentic Systems**, **GoLang*
 ![n8n](https://img.shields.io/badge/-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### DevOps & Services
-![AWS](https://img.shields.io/badge/-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Kafka](https://img.shields.io/badge/-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Agile](https://img.shields.io/badge/-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,kubernetes,kafka,jenkins,githubactions" />
 </div>
 
 ## 🌟 Open Source Contributions
