@@ -26,7 +26,7 @@ I am a developer and researcher deeply focused on **Agentic Systems**, **GoLang*
 <img src="https://skillicons.dev/icons?i=c,cpp,r,go,py,java,ts,js,mysql" />
 
 ### Software Development Frameworks
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,fastapi,react,vue" />
+<img src="https://skillicons.dev/icons?i=nextjs,nestjs,nodejs,express,fastapi,react,vue" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,supabase,firebase" />
