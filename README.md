@@ -25,33 +25,46 @@ I am a developer and researcher deeply focused on **Agentic Systems**, **GoLang*
 ### Programming Languages
 ![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Go](https://img.shields.io/badge/-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Software Development Frameworks
 ![Next.js](https://img.shields.io/badge/-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### AI & ML
-![n8n](https://img.shields.io/badge/-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![n8n](https://img.shields.io/badge/-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### DevOps & Services
+![AWS](https://img.shields.io/badge/-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Agile](https://img.shields.io/badge/-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
