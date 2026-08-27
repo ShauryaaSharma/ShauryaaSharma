@@ -39,6 +39,18 @@ I am a developer and researcher deeply focused on **Agentic Systems**, **GoLang*
 
 ## 🌟 Open Source Contributions
 
+Google's open-source toolkit for building, evaluating, and deploying AI agents.
+
+<p>
+  <a href="https://github.com/google/adk-python/commits?author=ShauryaaSharma">
+    <img src="https://img.shields.io/badge/google%2Fadk--python-1%20Merged%20Commit-A177F7?style=for-the-badge&logo=google&logoColor=white" alt="1 merged commit to google/adk-python" />
+  </a>
+</p>
+
+| Pull Request | Contribution |
+| :--- | :--- |
+| **[#6381](https://github.com/google/adk-python/pull/6381)** 🔀 | Fixed **`anyOf` schema rejection on Vertex AI** — Pydantic-generated `Optional[X]` fields produced a wrapping schema with no top-level `type`, which Vertex rejects while AI Studio accepts; now flattened to `X` + `nullable: true`, gated on the Vertex variant so AI Studio behavior is unchanged. Merged upstream via Copybara as [`642439c`](https://github.com/google/adk-python/commit/642439c) |
+
 Next-generation Node.js & TypeScript ORM.
 
 <p>
@@ -78,7 +90,7 @@ Y Combinator Startup, S24 <br>
 | **[#493](https://github.com/DeusData/codebase-memory-mcp/pull/493)** ✅ | Honor **`.git/info/exclude`** during file discovery |
 | **[#813](https://github.com/DeusData/codebase-memory-mcp/pull/813)** ✅ 🤝 | **Windows installer fixes** — Mark-of-the-Web, swallowed config errors, `taskkill` / `CreateProcessW` quoting |
 
-<sub>✅ Merged &nbsp;·&nbsp; 🤝 Co-authored</sub>
+<sub>✅ Merged &nbsp;·&nbsp; 🔀 Merged upstream via Copybara &nbsp;·&nbsp; 🤝 Co-authored</sub>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShauryaaSharma&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
