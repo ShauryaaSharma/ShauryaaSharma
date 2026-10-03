@@ -89,6 +89,7 @@ Y Combinator Startup, S24 <br>
 | **[#703](https://github.com/DeusData/codebase-memory-mcp/pull/703)** ✅ | `_wfopen` support for **non-ASCII Windows project paths** |
 | **[#493](https://github.com/DeusData/codebase-memory-mcp/pull/493)** ✅ | Honor **`.git/info/exclude`** during file discovery |
 | **[#813](https://github.com/DeusData/codebase-memory-mcp/pull/813)** ✅ 🤝 | **Windows installer fixes** — Mark-of-the-Web, swallowed config errors, `taskkill` / `CreateProcessW` quoting |
+| **[#1882](https://github.com/DeusData/codebase-memory-mcp/pull/1882)** ✅ 🤝 | **BM25 prose search** — index markdown section bodies and YAML/JSON descriptions in the FTS5 body column |
 
 <sub>✅ Merged &nbsp;·&nbsp; 🔀 Merged upstream via Copybara &nbsp;·&nbsp; 🤝 Co-authored</sub>
 
