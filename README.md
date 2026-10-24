@@ -80,7 +80,7 @@ Y Combinator Startup, S24 <br>
 
 <p>
   <a href="https://github.com/DeusData/codebase-memory-mcp/pulls?q=is%3Apr+author%3AShauryaaSharma+is%3Amerged">
-    <img src="https://img.shields.io/badge/DeusData%2Fcodebase--memory--mcp-3%20Merged%20PRs-A177F7?style=for-the-badge&logo=github&logoColor=white" alt="3 merged PRs to DeusData/codebase-memory-mcp" />
+    <img src="https://img.shields.io/badge/DeusData%2Fcodebase--memory--mcp-4%20Merged%20PRs-A177F7?style=for-the-badge&logo=github&logoColor=white" alt="4 merged PRs to DeusData/codebase-memory-mcp" />
   </a>
 </p>
 
