@@ -93,17 +93,7 @@ Y Combinator Startup, S24 <br>
 
 Open-source platform for evaluating, observing, and improving LLM and AI agent applications.
 
-<p>
-  <a href="https://github.com/future-agi/future-agi/pulls?q=is%3Apr+author%3AShauryaaSharma">
-    <img src="https://img.shields.io/badge/future--agi%2Ffuture--agi-1%20PR%20In%20Review-A177F7?style=for-the-badge&logo=github&logoColor=white" alt="1 PR in review at future-agi/future-agi" />
-  </a>
-</p>
-
-| Pull Request | Contribution |
-| :--- | :--- |
-| **[#2657](https://github.com/future-agi/future-agi/pull/2657)** 🔍 🤝 | Fixed **self-hosted stack failing to boot on Windows** — Git's default `core.autocrlf=true` checked out shell scripts with CRLF, so the property-catalog bootstrap container exited with `illegal option -` and Windows-built backend images couldn't start; added a `.gitattributes` pinning `eol=lf` for shell scripts, extensionless `bin/` scripts, Dockerfiles and SQL schemas. Maintainers have since pushed follow-up commits onto the branch |
-
-<sub>✅ Merged &nbsp;·&nbsp; 🔀 Merged upstream via Copybara &nbsp;·&nbsp; 🔍 In review &nbsp;·&nbsp; 🤝 Co-authored</sub>
+<sub>✅ Merged &nbsp;·&nbsp; 🔀 Merged upstream via Copybara &nbsp;·&nbsp; 🤝 Co-authored</sub>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShauryaaSharma&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
