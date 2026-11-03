@@ -55,7 +55,7 @@ Docker's catalog of MCP servers, powering discovery and one-click setup in the D
 
 <p>
   <a href="https://github.com/docker/mcp-registry/pulls?q=is%3Apr+author%3AShauryaaSharma+is%3Amerged">
-    <img src="https://img.shields.io/badge/docker%2Fmcp--registry-1%20Merged%20PR-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="1 merged PR to docker/mcp-registry" />
+    <img src="https://img.shields.io/badge/docker%2Fmcp--registry-1%20Merged%20PR-A177F7?style=for-the-badge&logo=docker&logoColor=white" alt="1 merged PR to docker/mcp-registry" />
   </a>
 </p>
 
