@@ -51,6 +51,18 @@ Google's open-source toolkit for building, evaluating, and deploying AI agents.
 | :--- | :--- |
 | **[#6381](https://github.com/google/adk-python/pull/6381)** 🔀 | Fixed **`anyOf` schema rejection on Vertex AI** — Pydantic-generated `Optional[X]` fields produced a wrapping schema with no top-level `type`, which Vertex rejects while AI Studio accepts; now flattened to `X` + `nullable: true`, gated on the Vertex variant so AI Studio behavior is unchanged. Merged upstream via Copybara as [`642439c`](https://github.com/google/adk-python/commit/642439c) |
 
+Docker's catalog of MCP servers, powering discovery and one-click setup in the Docker MCP Toolkit.
+
+<p>
+  <a href="https://github.com/docker/mcp-registry/commits?author=ShauryaaSharma">
+    <img src="https://img.shields.io/badge/docker%2Fmcp--registry-1%20Merged%20PR-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="1 merged PR to docker/mcp-registry" />
+  </a>
+</p>
+
+| Pull Request | Contribution |
+| :--- | :--- |
+| **[#4922](https://github.com/docker/mcp-registry/pull/4922)** 🔀 | Fixed **dead `deepwiki` catalog entry** — the declared SSE endpoint (`/sse`) no longer served MCP and returned 405 to an initialize request, so the entry looked healthy but failed on use; repointed to the live `streamable-http` endpoint (`/mcp`) and verified with the repo's `validate` step, which completed a live handshake and found 3 tools. Closes [#4735](https://github.com/docker/mcp-registry/issues/4735). Merged as [`394c5b4`](https://github.com/docker/mcp-registry/commit/394c5b4) |
+
 Next-generation Node.js & TypeScript ORM.
 
 <p>
