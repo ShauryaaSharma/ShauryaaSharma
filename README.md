@@ -88,6 +88,18 @@ Y Combinator Startup, S24 <br>
 | :--- | :--- |
 | **[#6102](https://github.com/mem0ai/mem0/pull/6102)** ✅ | Fixed **silent LLM transport-failure swallowing** in the TS SDK — provider/network errors during memory extraction are now re-raised as a typed `LLMError` instead of being masked as an empty result |
 
+Future AGI
+
+<p>
+  <a href="https://github.com/future-agi/future-agi/pulls?q=is%3Apr+author%3AShauryaaSharma+is%3Amerged">
+    <img src="https://img.shields.io/badge/future--agi%2Ffuture--agi-1%20Merged%20PR-A177F7?style=for-the-badge&logo=github&logoColor=white" alt="1 merged PR to future-agi/future-agi" />
+  </a>
+</p>
+
+| Pull Request | Contribution |
+| :--- | :--- |
+| **[#2657](https://github.com/future-agi/future-agi/pull/2657)** ✅ | Fixed **self-hosted stack failing to boot on Windows** — Git for Windows' default `core.autocrlf=true` checked out shell scripts with CRLF, so the property-catalog bootstrap container exited 2 (`set: line 2: illegal option -`) and a backend image built on Windows couldn't start. Added a `.gitattributes` pinning `eol=lf` for `*.sh`, extensionless scripts (`bin/install`, `futureagi/bin/temporal-worker`, etc.), `Dockerfile*` and `*.sql`. Verified end-to-end on Windows: the bootstrap container now exits 0. Closes [#2656](https://github.com/future-agi/future-agi/issues/2656) |
+
 #1 on daily, weekly and monthly trending repositories.
 
 <p>
